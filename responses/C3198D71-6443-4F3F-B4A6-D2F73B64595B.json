@@ -1,0 +1,79 @@
+{
+  "discovery_method": "Unknown",
+  "schema_version": "1.3",
+  "action": {
+    "hacking": {
+      "variety": [
+        "Unknown"
+      ],
+      "vector": [
+        "Unknown"
+      ]
+    }
+  },
+  "actor": {
+    "external": {
+      "name": [
+        "Libyan Cyber Army (The GreaT TeAm)"
+      ],
+      "variety": [
+        "Unknown"
+      ],
+      "motive": [
+        "Unknown"
+      ],
+      "country": [
+        "LY"
+      ],
+      "region": [
+        "002015"
+      ]
+    }
+  },
+  "security_incident": "Confirmed",
+  "source_id": "vcdb",
+  "summary": "Web site defacement",
+  "attribute": {
+    "integrity": {
+      "variety": [
+        "Defacement"
+      ]
+    }
+  },
+  "asset": {
+    "assets": [
+      {
+        "variety": "S - Web application"
+      }
+    ]
+  },
+  "referene": "",
+  "victim": {
+    "victim_id": "Egypt Ministry of Information",
+    "employee_count": "Small",
+    "country": [
+      "EG"
+    ],
+    "industry": "92",
+    "region": [
+      "002015"
+    ]
+  },
+  "plus": {
+    "analysis_status": "First pass",
+    "analyst": "blackfist",
+    "github": "2084/",
+    "created": "2014-05-04T20:45:51.744Z",
+    "modified": "2014-05-04T20:45:51.744Z",
+    "master_id": "C3198D71-6443-4F3F-B4A6-D2F73B64595B"
+  },
+  "timeline": {
+    "incident": {
+      "year": 2014,
+      "month": 4,
+      "day": 28
+    }
+  },
+  "incident_id": "C3198D71-6443-4F3F-B4A6-D2F73B64595B",
+  "reference": "http://news.softpedia.com/news/Website-of-Egypt-s-Ministry-of-Information-Hacked-and-Defaced-439700.shtml (2014-05-04T20:45:51.744Z);"
+}
